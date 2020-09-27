@@ -1,0 +1,698 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", *UNIVISION DEPORTES
+http://f.ok2.se:8000/victor1/victor123/423
+
+#EXTINF:0,Affizionados | ENTRETENIMIENTO LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/69016
+
+#EXTINF:0,DEPORTES: IZZI AFICIONADOS MX
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/78905
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN HD DEPORTES
+http://f.ok2.se:8000/victor1/victor123/8505
+
+#EXTINF:-1,ESPN
+http://23.237.54.42/hls/ESPNMX.m3u8
+
+#EXTINF:-1,ESPN 2
+http://23.237.54.42/hls/ESPN2MX.m3u8
+
+#EXTINF:-1,ESPN 3
+http://23.237.54.42/hls/ESPN3MX.m3u8
+
+#EXTINF:-1,FOXSPORTS
+http://23.237.54.42/hls/FOXSPORTSMX.m3u8
+
+#EXTINF:-1,FOXSPORTS 2
+http://23.237.54.42/hls/FOXSPORTS2MX.m3u8
+
+#EXTINF:-1,FOXSPORTS 3
+http://23.237.54.42/hls/FOXSPORTS3MX.m3u8
+
+#EXTINF:0,TVC | DEPORTES LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8462
+
+#EXTINF:-1,WWE HD
+http://ok2.se:8000/superman/12345/168
+
+#EXTINF:0,DESPORTES: WWE
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/78910
+
+#EXTINF:0,beIN Sports | DEPORTES LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/11348
+
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="MEXICO",Claro Sports MX
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN DEPORTES HD (H265) - NEW
+http://f.ok2.se:8000/victor1/victor123/65724
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", *FOX DEPORTES HD (ES)
+http://f.ok2.se:8000/victor1/victor123/436
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX DEPORTES (ES)
+http://f.ok2.se:8000/victor1/victor123/237
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORTS 2 HD (LATIN AMERICA) (ES)
+http://f.ok2.se:8000/victor1/victor123/39680
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORTS 3 HD (LATIN AMERICA) (ES)
+http://f.ok2.se:8000/victor1/victor123/39681
+
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="USA",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-1,NBC SPORTS
+http://ok2.se:8000/superman/12345/170
+
+#EXTINF:-1,*CBS SPORTS HD
+http://ok2.se:8000/superman/12345/169
+
+#EXTINF:-1,ESPN 2 HD
+http://ok2.se:8000/superman/12345/144
+
+#EXTINF:-1,ESPN ACC HD
+http://ok2.se:8000/superman/12345/86092
+
+#EXTINF:-1,*NFL NETWORK HD
+http://ok2.se:8000/superman/12345/157
+
+#EXTINF:-1,*NHL NETWORK HD
+http://ok2.se:8000/superman/12345/156
+
+#EXTINF:-1,LEAFS TV
+http://ok2.se:8000/superman/12345/59039
+
+#EXTINF:-1,*NBA HD
+http://ok2.se:8000/superman/12345/165
+
+#EXTINF:-1,MSG HD - NEW
+http://ok2.se:8000/superman/12345/10052
+
+#EXTINF:-1,YES NETWORK HD
+http://ok2.se:8000/superman/12345/10034
+
+#EXTINF:-1,MLB NETWORK HD
+http://ok2.se:8000/superman/12345/2193
+
+#EXTINF:-1,GOLF HD
+http://ok2.se:8000/superman/12345/166
+
+#EXTINF:-1,TENNIS HD
+http://ok2.se:8000/superman/12345/167
+
+#EXTINF:-1,WILLOW XTRA HD
+http://ok2.se:8000/superman/12345/9630
+
+#EXTINF:-1,FIGHT - NEW
+http://ok2.se:8000/superman/12345/71284
+
+#EXTINF:-1,*BEIN SPORTS HD
+http://ok2.se:8000/superman/12345/171
+
+#EXTINF:-1,RACING.COM (AU)
+http://ok2.se:8000/superman/12345/80783
+
+#EXTINF:-1,WFN
+http://ok2.se:8000/superman/12345/26231
+
+#EXTINF:-1,BT SPORTS 2 HD
+http://ok2.se:8000/superman/12345/226
+
+#EXTINF:-1,BT SPORTS 3 HD
+http://ok2.se:8000/superman/12345/232
+
+#EXTINF:-1,BT SPORTS ESPN
+http://ok2.se:8000/superman/12345/233
+
+#EXTINF:0,Movistar | DEPORTES LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77943
+
+#EXTINF:0,TUDN | SPORTS USA
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8460
+
+#EXTINF:0,TUDN EXTRA 1 | SPORTS USA
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77874
+
+#EXTINF:0,TUDN EXTRA 10 | SPORTS USA
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77866
+
+#EXTINF:0,TUDN EXTRA 2 | SPORTS USA
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77873
+
+#EXTINF:0,TUDN EXTRA 3 | SPORTS USA
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77872
+
+#EXTINF:0,TUDN EXTRA 4 | SPORTS USA
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77871
+
+#EXTINF:0,TUDN EXTRA 5 | SPORTS USA
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77870
+
+#EXTINF:0,TUDN EXTRA 6 | SPORTS USA
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77869
+
+#EXTINF:0,TUDN EXTRA 7 | SPORTS USA
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77868
+
+#EXTINF:0,TUDN EXTRA 8 | SPORTS USA
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77875
+
+#EXTINF:0,TUDN EXTRA 9 | SPORTS USA
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77867
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1, Wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 ,TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+
+#EXTINF:0,Estrellas HD
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/78858
+
+#EXTINF:-1 ,Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg",MUNDO +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal111.png" group-title="Mexico", Canal Once MMEXICO
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:0,Azteca 7
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/69334
+
+#EXTINF:0,MEXICO|AZTECA 7 HD
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/78854
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RcHaKDY.png" group-title="MEXICO",Canal 10 Cancun HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1,AZTECA
+http://ok2.se:8000/superman/12345/451
+
+#EXTINF:-1,CNN (ES)
+http://ok2.se:8000/superman/12345/429
+
+#EXTINF:-1,AZMUNDO
+http://23.237.54.42/hls/AZMUNDOMX.m3u8
+
+#EXTINF:-1,AZTECA UNO
+http://23.237.54.42/hls/AZTECA1MX.m3u8
+
+#EXTINF:-1,CANAL 5
+http://23.237.54.42/hls/CANAL5MX.m3u8
+
+#EXTINF:-1,CANAL 9
+http://23.237.54.42/hls/CANAL9MX.m3u8
+
+#EXTINF:-1,CANAL ONCE
+http://23.237.54.42/hls/CANAL11MX.m3u8
+
+#EXTINF:0,TVC | ENTRETENIMIENTO LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8461
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINE SONY (ES)
+http://f.ok2.se:8000/victor1/victor123/435
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINE LATINO (ES)
+http://f.ok2.se:8000/victor1/victor123/30862
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINEMAX HD ES - NEW
+http://f.ok2.se:8000/victor1/victor123/419
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO EAST HD (ES)
+http://f.ok2.se:8000/victor1/victor123/420 
+
+#EXTINF:-1,HBO
+http://experiencetv.zapto.org:25468/expertvconx/expert02/61 
+
+#EXTINF:-1,FOX ACTION
+http://23.237.54.42/hls/FOXACTIONMX.m3u8
+
+#EXTINF:-1,FOX CINEMA
+http://23.237.54.42/hls/FOXCINEMAMX.m3u8
+
+#EXTINF:-1,FOX MOVIES
+http://23.237.54.42/hls/FOXMOVIESMX.m3u8
+
+#EXTINF:-1,FOX SERIES
+http://23.237.54.42/hls/FOXSERIESMX.m3u8
+
+#EXTINF:-1,SPACE
+http://experiencetv.zapto.org:25468/expertvconx/expert02/7
+
+#EXTINF:-1,STUDIO UNIVERSAL
+http://experiencetv.zapto.org:25468/expertvconx/expert02/16
+
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://experiencetv.zapto.org:25468/expertvconx/expert02/24
+
+#EXTINF:-1,DE PELICULA
+http://experiencetv.zapto.org:25468/expertvconx/expert02/54
+
+#EXTINF:-1,GOLDEN
+http://experiencetv.zapto.org:25468/expertvconx/expert02/55
+
+#EXTINF:-1,GOLDEN
+http://23.237.54.42/hls/GOLDENMX.m3u8
+
+#EXTINF:-1,GOLDEN EDGE
+http://23.237.54.42/hls/GOLDENEDGEMX.m3u8
+
+#EXTINF:-1,GOLDEN PLUS
+http://23.237.54.42/hls/GOLDENPLUSMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cablevida.com.mx/assets/img/canales/Panico.png" group-title="Cine", PANICO HD
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:-1,FOX HD EAST
+http://ok2.se:8000/superman/12345/9
+
+#EXTINF:-1,CITY TV HD
+http://ok2.se:8000/superman/12345/14
+
+#EXTINF:-1,CITY VANCOUVER HD
+http://ok2.se:8000/superman/12345/311
+
+#EXTINF:-1,FX HD
+http://ok2.se:8000/superman/12345/314
+
+#EXTINF:-1,*HALLMARK HD
+http://ok2.se:8000/superman/12345/321
+
+#EXTINF:-1,*HALLMARK MOVIES MYSTERY HD
+http://ok2.se:8000/superman/12345/4599
+
+#EXTINF:-1,HALLMARK DRAMA
+http://ok2.se:8000/superman/12345/83349
+
+#EXTINF:-1,*LIFETIME MOVIES HD
+http://ok2.se:8000/superman/12345/326
+
+#EXTINF:-1,HBO 1 HD
+http://ok2.se:8000/superman/12345/26321
+
+#EXTINF:-1,HBO 2 HD
+http://ok2.se:8000/superman/12345/26322
+
+#EXTINF:0,HBO 2 (LATINO) | CINE LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8419
+
+#EXTINF:0,HBO Plus (LATINO) | CINE LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8421
+
+#EXTINF:0,HBO SIGNATURE | CINE LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8485
+
+#EXTINF:-1,HBO EAST HD - NEW
+http://ok2.se:8000/superman/12345/371
+
+#EXTINF:-1,HBO COMEDY HD - NEW
+http://ok2.se:8000/superman/12345/373
+
+#EXTINF:0,HBO Family (LATINO) | CINE LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8420
+
+#EXTINF:-1,HBO FAMILY HD - NEW
+http://ok2.se:8000/superman/12345/4829
+
+#EXTINF:-1,HBO SIGNATURE HD - NEW
+http://ok2.se:8000/superman/12345/372
+
+#EXTINF:-1,HBO ZONE HD - NEW
+http://ok2.se:8000/superman/12345/4828
+
+#EXTINF:-1,CINEMAX EAST HD - NEW
+http://ok2.se:8000/superman/12345/380
+
+#EXTINF:-1,ACTION MAX HD - NEW
+http://ok2.se:8000/superman/12345/383
+
+#EXTINF:-1,MOREMAX HD - NEW
+http://ok2.se:8000/superman/12345/381
+
+#EXTINF:-1,THRILLER MAX HD
+http://ok2.se:8000/superman/12345/80332
+
+#EXTINF:0,24/7 | CINEMA DC UNIVERSE HD
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/78047
+
+#EXTINF:0,24/7 | CINEMA DISNEY PIXAR HD
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/78045
+
+#EXTINF:0,24/7 | CINEMA DREAMWORKS HD
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/78046
+
+#EXTINF:0,24/7 | CINEMA FAMILIA HD
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/78042
+
+#EXTINF:0,24/7 | CINEMA HAPPY MADISON HD
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/78041
+
+#EXTINF:0,24/7 | CINEMA LEGO MOVIES HD
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/78043
+
+#EXTINF:0,Movistar Cine Doc & Roll | CINE LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77940
+
+#EXTINF:0,Movistar Cine Doc & Roll HD | CINE LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77941
+
+#EXTINF:0,Movistar Cine Español | CINE LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77939
+
+#EXTINF:0,Movistar Comedia HD | CINE LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77942
+
+#EXTINF:0,Movistar Disney | movies
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77950
+
+#EXTINF:0,Movistar Drama HD | CINE LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77944
+
+#EXTINF:0,Movistar Estrenos | CINE LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77946
+
+#EXTINF:0,UK | Sky Cinema Premier
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/74522
+
+#EXTINF:0,UK | Sky Cinema Thriller
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/74530
+
+#EXTINF:0,24/7 Cantinflas Parte 2 (19 Peliculas)
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77840
+
+#EXTINF:0,24/7 El Chavo del 8
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77843
+
+#EXTINF:0,24/7 Mr Bean
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77856
+
+#EXTINF:-1,HISTORY
+http://23.237.54.42/hls/HISTORYMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HISTORY (ES)
+http://f.ok2.se:8000/victor1/victor123/431
+
+#EXTINF:-1,NAT GEO
+http://23.237.54.42/hls/NATGEOMX.m3u8
+
+#EXTINF:-1,NATGEO WILL
+http://23.237.54.42/hls/NATGEOWILDMX.m3u8
+
+#EXTINF:0,Nat Geo Mundo | DOCUMENTAL LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8433
+
+#EXTINF:0,Nat Geo Wild | DOCUMENTAL LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8434
+
+
+#EXTINF:-1,A&E
+http://23.237.54.42/hls/A-AND-EMX.m3u8
+
+#EXTINF:0,A3S | ENTRETENIMIENTO LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/69014
+
+#EXTINF:-1,ANIMAL PLANET
+http://23.237.54.42/hls/ANIMALPLANETMX.m3u8
+
+#EXTINF:0,Animal Planet | ENTRETENIMIENTO LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/69018
+
+#EXTINF:-1,AXN
+http://23.237.54.42/hls/AXNMX.m3u8
+
+#EXTINF:0,AXN White | ENTRETENIMIENTO LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/69021
+
+#EXTINF:-1,GOURMET
+http://23.237.54.42/hls/GOURMETMX.m3u8
+
+#EXTINF:-1,ID
+http://23.237.54.42/hls/INVESTIGATIONDISCOVERYMX.m3u8
+
+#EXTINF:-1,TRU TV
+http://experiencetv.zapto.org:25468/expertvconx/expert02/59
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY HD ES
+http://f.ok2.se:8000/victor1/victor123/430
+
+#EXTINF:-1,DISCOVERY H&H
+http://experiencetv.zapto.org:25468/expertvconx/expert02/68
+
+#EXTINF:-1,DISCOVERY TURBO
+http://experiencetv.zapto.org:25468/expertvconx/expert02/69
+
+#EXTINF:0,Discovery Civilization | DOCUMENTAL LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8383
+
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://experiencetv.zapto.org:25468/expertvconx/expert02/71
+
+#EXTINF:-1,HISTORY
+http://experiencetv.zapto.org:25468/expertvconx/expert02/74
+
+#EXTINF:0,History Channel | DOCUMENTAL LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8423
+
+#EXTINF:0,History 2 | DOCUMENTAL LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8422
+
+#EXTINF:0,Food Network | ENTRETENIMIENTO LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8402
+
+#EXTINF:-1,ANIMAL PLANET
+http://experiencetv.zapto.org:25468/expertvconx/expert02/75
+
+#EXTINF:-1,TLC
+http://experiencetv.zapto.org:25468/expertvconx/expert02/78
+
+#EXTINF:0,Discovery Theater | DOCUMENTAL LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8390
+
+#EXTINF:0,Discovery Turbo | DOCUMENTAL LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8392
+
+#EXTINF:0,Discovery World | DOCUMENTAL LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8393
+
+#EXTINF:-1,DISCOVERY HD (USA)
+http://ok2.se:8000/superman/12345/56250
+
+#EXTINF:0,Discovery Science | DOCUMENTAL LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/11351
+
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://ok2.se:8000/superman/12345/320
+
+#EXTINF:0,Discovery H&H | DOCUMENTAL LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/8386
+
+#EXTINF:-1,*ID HD
+http://ok2.se:8000/superman/12345/324
+
+#EXTINF:-1,LIFE HD
+http://ok2.se:8000/superman/12345/325
+
+#EXTINF:-1,FOX LIFE
+http://experiencetv.zapto.org:25468/expertvconx/expert02/10
+
+#EXTINF:-1,FOX CHANEL
+http://experiencetv.zapto.org:25468/expertvconx/expert02/12
+
+#EXTINF:-1,TNT
+http://experiencetv.zapto.org:25468/expertvconx/expert02/17
+
+#EXTINF:-1,TNT SERIES 
+http://experiencetv.zapto.org:25468/expertvconx/expert02/18
+
+#EXTINF:-1,A&E
+http://experiencetv.zapto.org:25468/expertvconx/expert02/19
+
+#EXTINF:-1,FX
+http://experiencetv.zapto.org:25468/expertvconx/expert02/20
+
+#EXTINF:-1,FMX
+http://experiencetv.zapto.org:25468/expertvconx/expert02/21
+
+#EXTINF:-1,AMC
+http://experiencetv.zapto.org:25468/expertvconx/expert02/22
+
+#EXTINF:-1,AXN
+http://experiencetv.zapto.org:25468/expertvconx/expert02/23
+     
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GALAVISION
+http://f.ok2.se:8000/victor1/victor123/414
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", *UNIVISION WEST (LA)
+http://f.ok2.se:8000/victor1/victor123/413
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", *TELEMUNDO WEST
+http://f.ok2.se:8000/victor1/victor123/416
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NBC UNIVERSO HD
+http://f.ok2.se:8000/victor1/victor123/417
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HITN (ES) - NEW
+http://f.ok2.se:8000/victor1/victor123/31461
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MEGA HD (NEW)
+http://f.ok2.se:8000/victor1/victor123/418
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNIMAS HD
+http://f.ok2.se:8000/victor1/victor123/425
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CNN (ES)
+http://f.ok2.se:8000/victor1/victor123/429
+
+#EXTINF:-1,DISTRITO COMEDIA 
+http://experiencetv.zapto.org:25468/expertvconx/expert02/80
+
+#EXTINF:-1,FX
+http://23.237.54.42/hls/FXMX.m3u8
+
+#EXTINF:-1,TNT
+http://23.237.54.42/hls/TNTMX.m3u8
+
+#EXTINF:-1,SYFY
+http://23.237.54.42/hls/SYFYMX.m3u8
+
+#EXTINF:-1,TBS
+http://23.237.54.42/hls/TBSMX.m3u8
+
+#EXTINF:-1,TCM
+http://23.237.54.42/hls/TCMMX.m3u8
+
+#EXTINF:-1,TV MAS
+http://23.237.54.42/hls/TVMASMX.m3u8
+
+#EXTINF:-1,WARNER
+http://23.237.54.42/hls/WARNERCHANNELMX.m3u8
+
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
+https://rtvelivestream.akamaized.net/la2_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="Generalistas" tvg-name="Cuatro",Cuatro HD
+https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
+
+#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="Generalistas" tvg-name="Telecinco",Telecinco HD
+https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
+
+#EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas" tvg-name="FDF",FDF HD
+https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
+
+#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200" group-title="Generalistas" tvg-name="Divinity",Divinity HD
+https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
+
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+
+#EXTINF:0,7 Murcia
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/73098
+
+#EXTINF:-1,LA RED (CHILE)
+http://ok2.se:8000/superman/12345/15338
+
+#EXTINF:-1,MTV
+http://experiencetv.zapto.org:25468/expertvconx/expert02/79
+
+#EXTINF:-1,MTV 2 HD - NEW
+http://ok2.se:8000/superman/12345/69011
+
+#EXTINF:0,MUSICA | MTV HITS
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77288
+
+#EXTINF:0,MUSICA | MTV LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77289
+
+#EXTINF:0,MUSICA | MTV LIVE
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77290
+
+#EXTINF:0,MUSICA | MUSIC TOP HD
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77291
+
+#EXTINF:0,MUSICA | POP HITS
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/77292
+
+#EXTINF:-1,BRAVO HD
+http://ok2.se:8000/superman/12345/353
+
+#EXTINF:-1,*VH1 HD
+http://ok2.se:8000/superman/12345/354
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="Musicales" tvg-name="RTL 102.5 Italia",RTL 102.5 Italia IT
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/kronehit/picture?width=200&height=200" group-title="Musicales" tvg-name="Kronehit Austria",Kronehit Austria
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" group-title="Musicales" tvg-name="QMusic Holanda",QMusic Holanda
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/nrj.be/picture?width=200&height=200" group-title="Musicales" tvg-name="NRJ Bélgica",NRJ Bélgica FR
+https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/DancestarTV/picture?width=200&height=200" group-title="Musicales" tvg-name="DanceStar TV",DanceStar TV EN
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM House",Loca FM House
+http://audio-online.net:8005/live
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Chill out",Loca FM Chill out
+http://audio-online.net:8002/live
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Tech House",Loca FM Tech House
+http://audio-online.net:8008/live
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Trance",Loca FM Trance
+http://audio-online.net:8010/live
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Ambient",Loca FM Ambient
+http://audio-online.net:8007/live
+
+#EXTINF:-1,PLAYBOY TV (NA)
+http://ok2.se:8000/superman/12345/300
+
+#EXTINF:-1,HUSTLER HD
+http://ok2.se:8000/superman/12345/302
+
+#EXTINF:-1,X ART
+http://ok2.se:8000/superman/12345/10658
+
+#EXTINF:-1,NAUGHTY AMERICA
+http://ok2.se:8000/superman/12345/10657
+
+#EXTINF:-1,BRAZZERS
+http://ok2.se:8000/superman/12345/10656
+
+#EXTINF:-1,BRAZZERS LIVE
+http://ok2.se:8000/superman/12345/10660
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", XTSY - (NEW)
+http://f.ok2.se:8000/victor1/victor123/9164
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TINY4K
+http://f.ok2.se:8000/victor1/victor123/8889
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANDY - NEW
+http://f.ok2.se:8000/victor1/victor123/90820
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", O-LA-LA - NEW
+http://f.ok2.se:8000/victor1/victor123/90821
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EVIL ANGEL 1
+http://f.ok2.se:8000/victor1/victor123/10659
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LEGAL PORNO
+http://f.ok2.se:8000/victor1/victor123/6573
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PENTHOUSE
+http://f.ok2.se:8000/victor1/victor123/71118
+
+
